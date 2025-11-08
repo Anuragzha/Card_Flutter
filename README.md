@@ -1,7 +1,8 @@
 # cards_connect
 
 ## App Screenshot
-![App Screenshot](assets/Screenshot.png)
+<img src="assets/Screenshot.png" alt="App Screenshot" width="60%" />
+
 
 
 ## Getting Started
