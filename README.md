@@ -1,6 +1,6 @@
 # cards_connect
 
-![My App UI](assets/screenshot.png)
+
 
 ## Getting Started
 
