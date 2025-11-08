@@ -1,8 +1,12 @@
 # cards_connect
 
-A new Flutter project.
+![My App UI](assets/screenshot.png)
 
 ## Getting Started
+
+
+
+
 
 This project is a starting point for a Flutter application.
 
