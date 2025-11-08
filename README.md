@@ -1,7 +1,7 @@
 # cards_connect
 
 ## App Screenshot
-<img src="assets/Screenshot.png" alt="App Screenshot" width="30%" />
+<img src="assets/Screenshot.png" alt="App Screenshot" width="20%" />
 
 
 
