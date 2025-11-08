@@ -1,5 +1,7 @@
 # cards_connect
 
+## App Screenshot
+![App Screenshot](assets/Screenshot.png)
 
 
 ## Getting Started
